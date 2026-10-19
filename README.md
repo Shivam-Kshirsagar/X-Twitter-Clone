@@ -6,7 +6,7 @@ A responsive X (Twitter) Clone website built using HTML and Tailwind CSS.
 
 👉 View Live Website https://Shivam-Kshirsagar.github.io/X-Twitter-Clone/
 
-📌 About The Project
+📌 About The Project .
 
 This project is a frontend clone of X (formerly Twitter).
 It is created to practice and demonstrate modern web development concepts using HTML and Tailwind CSS.
