@@ -1,4 +1,4 @@
-🐦 X (Twitter) Clone ...
+🐦 X (Twitter) Clone 
 
 A responsive X (Twitter) Clone website built using HTML and Tailwind CSS.
 
